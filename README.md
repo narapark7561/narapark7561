@@ -1,17 +1,17 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hello%20World%20👋%20I'm%20Nara!&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=f28da6&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=f3bebe&height=120&text=Hello%20World%20👋%20I'm%20Nara!&animation=twinkling&fontColor=f28da6&fontSize=50" />
 </div>
 
-<div style="background: linear-gradient(135deg, #f0f0f0, #d4d4d4); padding: 20px; border-radius: 10px; text-align: left;">
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ About me </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         I'm a Software Development student at SAIT, deeply passionate about building efficient and user-friendly applications. With experience in JavaScript, TypeScript, Node.js, and NestJS, I’m always eager to expand my knowledge, explore new technologies, and tackle challenging projects. I thrive in environments where I can continuously learn and grow, and I'm excited to collaborate on innovative solutions that make a real impact.
     </div>
 </div>
 
-<div style="text-align: left; margin-top: 20px;">
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-    <div align="center" style="padding: 10px; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+    <div align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white">
         <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
@@ -25,7 +25,7 @@
     </div>
 </div>
 
-<div style="text-align: left; margin-top: 20px;">
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div align="center">
         <a href="mailto:narapark7561@gmail.com">
@@ -42,10 +42,11 @@
     </div>
 </div>
 
-<div style="text-align: left; margin-top: 20px;">
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=narapark7561&bg_color=30,e09e9e,f3bebe&title_color=000000&text_color=000000&icon_color=f28da6" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narapark7561&layout=compact&bg_color=30,e09e9e,f3bebe&title_color=000000&text_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api?username=narapark7561&bg_color=180,00000000,e09e9e&title_color=000000&text_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narapark7561&layout=compact&bg_color=180,00000000,e09e9e&title_color=000000&text_color=000000" />
     </div>
 </div>
+
