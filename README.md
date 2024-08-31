@@ -5,17 +5,22 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I'm a Software Development student at SAIT, deeply passionate about building efficient and user friendly applications. With experience in JavaScript, TypeScript, Node.js, and NestJS, I’m always eager to expand my knowledge, explore new technologies, and tackle challenging projects. I thrive in environments where I can continuously learn and grow, and I'm excited to collaborate on innovative solutions that make a real impact.</li></li> </div> 
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=plastic&logo=Tailwind CSS&logoColor=white">
-          </div>
+   <div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
+  <div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=NestJS&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=C-Sharp&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=plastic&logo=Tailwind-CSS&logoColor=white">
+  </div>
+</div>
+
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
   <div align= "center"> 
