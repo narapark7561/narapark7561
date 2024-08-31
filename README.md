@@ -1,10 +1,9 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=f3bebe&height=120&text=Hello,%20World!%20I'm%20Nara!&animation=twinkling&fontColor=f28da6&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=f3bebe&height=120&text=Hello%20World%20👋%20I'm%20Nara!&animation=twinkling&fontColor=f28da6&fontSize=50" />
 </div>
 
-
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About me </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ About me </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         I'm a Software Development student at SAIT, deeply passionate about building efficient and user-friendly applications. With experience in JavaScript, TypeScript, Node.js, and NestJS, I’m always eager to expand my knowledge, explore new technologies, and tackle challenging projects. I thrive in environments where I can continuously learn and grow, and I'm excited to collaborate on innovative solutions that make a real impact.
     </div>
